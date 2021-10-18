@@ -10,7 +10,7 @@ Each subdirectory contains some code that needs refactoring.
 
 ## `time/timestamp.py`
 
-Refactor timestamp.py.  2 or 3 refactorings are possible.
+Refactor timestamp.py.  2 or 3 refactorings are possible.       
   rename CreateTimeFromTimestamp to create_time_from_timestamp to be Python naming convention.      
   delete the bracket that make the code bug.     
 
