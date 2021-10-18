@@ -12,7 +12,7 @@ Each subdirectory contains some code that needs refactoring.
 
 Refactor timestamp.py.  2 or 3 refactorings are possible.       
 * Rename CreateTimeFromTimestamp to create_time_from_timestamp to be Python naming convention.      
-* Delete the bracket that make the code bug.     
+* Change arg[] to hours,minutes,seconds : easy to understand     
 
 
 ## `game_framework/gamelib.py`
