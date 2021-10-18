@@ -15,7 +15,6 @@ if __name__ == '__main__':
     recipe2.price = 40.0
     print(recipe2)
 
-
     recipe3 = Recipe("Hot Chocolate")
     recipe3.coffee = 0
     recipe3.chocolate = 3
@@ -23,4 +22,3 @@ if __name__ == '__main__':
     recipe3.milk = 4
     recipe3.price = 30.0
     print(recipe3)
-    
