@@ -8,12 +8,6 @@ from dataclasses import dataclass
 
 @dataclass
 class Recipe:
-    # name: str
-    # coffee: int
-    # chocolate: int
-    # milk: int
-    # sugar: int
-    # price: float
 
     def __init__(self, name, coffee=0, chocolate=0, milk=0, sugar=0, price=0.0):
         self.name = name
